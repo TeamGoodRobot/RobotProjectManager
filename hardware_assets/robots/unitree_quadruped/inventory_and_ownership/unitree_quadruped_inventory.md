@@ -14,4 +14,6 @@ This document lists the Unitree quadruped robots owned and available for club ac
 - **Name:** Perl
 - **Owner:** Alan (Club Founder)
 - **Current Storage Location:** (To be updated - may vary based on member borrowing)
-- **Notes:** Base model. Alaina will be testing ROS integration on this robot.
+- **Notes:**
+    - Base model. Alaina will be testing ROS integration on this robot.
+    - Has a dedicated phone for control (acquired recently).

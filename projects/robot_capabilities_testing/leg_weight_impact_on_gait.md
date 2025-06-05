@@ -44,4 +44,15 @@ For each weight configuration:
 - Correlate observed gait changes with the amount and placement of weight.
 - Assess if the robot's response aligns more with open-loop or closed-loop control characteristics.
 
+## 6. Experimental Results (Informal)
+
+-   **FR Leg Weight Test (Date: Unspecified, prior to this documentation update):**
+    *   **Robot:** Assumed to be one of the Go2 models.
+    *   **Weight Application:** Weights were added incrementally to the Front Right (FR) leg.
+    *   **Observation:** With the 3rd addition of weight, totaling approximately 1255.7 grams:
+        *   The leg started to be a "tiny bit sluggish."
+        *   Examples of sluggishness included not lifting quite as high.
+        *   The robot maintained a generally normal gait but caused it to turn ever so slightly in the direction of the FR leg with the weight.
+    *   **Note:** This was an informal observation.
+
 ```

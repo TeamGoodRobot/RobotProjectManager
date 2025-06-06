@@ -6,9 +6,14 @@ This document tracks key setup tasks and infrastructure decisions for the roboti
 
 - **Club Name:**
     - **To-Do:** Brainstorm and decide on an official name for the robotics club.
-- **Website/Domain:**
-    - **To-Do:** Research and secure a suitable URL/domain name once the club name is decided.
-    - **To-Do:** Plan and develop a basic website (even a simple landing page initially).
+- **Website/Domains & Hosting:**
+    - **Registered Domains:**
+        - TinSoul.ca
+        - RobotClub.cc
+        - robotclub.top
+    - **Hosting Provider:**
+        - An account has been set up with IONOS for these domains and potential website hosting.
+    - **To-Do:** Plan and develop website content for the chosen domain(s).
 
 ## Communication & Collaboration
 

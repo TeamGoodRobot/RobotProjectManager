@@ -11,9 +11,11 @@ This document tracks key setup tasks and infrastructure decisions for the roboti
         - TinSoul.ca
         - RobotClub.cc
         - robotclub.top
+        - robotclub.to
     - **Hosting Provider:**
-        - An account has been set up with IONOS for these domains and potential website hosting.
-    - **To-Do:** Plan and develop website content for the chosen domain(s).
+        - An account has been set up with IONOS (ionos.ca) for these domains and website hosting. All listed domains will have a basic webpage added and are hosted here.
+    - **Status:** A rough draft of a basic webpage has been posted publicly.
+    - **To-Do:** Continue to refine and develop website content.
 
 ## Communication & Collaboration
 

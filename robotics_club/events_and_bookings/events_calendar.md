@@ -16,6 +16,12 @@ This document tracks upcoming events, robot bookings, and related notes.
     - **Member:** Eric (borrowing).
     - **Location:** Eric's house (to demo to a few people).
 
+- **Thursday, June 12th, 2024 (Kubik Event):**
+    - **Activity:** Lunch and learn - sharing bots with Adriano and his team.
+    - **Robots:** (Assumed Go2, specific bots not mentioned)
+    - **Member:** You (User)
+    - **Location:** Kubik
+
 ## Club Development Notes
 
 - **Club Name:** A name for the robotics club needs to be decided.

@@ -27,7 +27,7 @@ This work contributes to ongoing research and development. Documenting these mod
 ### Future Considerations:
 -   Further work may be needed to address any stabilization issues once payloads (like cameras or trays) are mounted.
 
-## Follow-up & Testing: June 10, 2024 (Evening)
+## Follow-up & Testing: June 10, 2025 (Evening)
 
 ### Modifications:
 -   The front two mounting holes on the platform were re-drilled, moving each approximately 1mm forward and 1mm towards the center.

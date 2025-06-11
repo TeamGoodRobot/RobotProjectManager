@@ -26,3 +26,31 @@ This work contributes to ongoing research and development. Documenting these mod
 
 ### Future Considerations:
 -   Further work may be needed to address any stabilization issues once payloads (like cameras or trays) are mounted.
+
+## Follow-up & Testing: June 10, 2024 (Evening)
+
+### Modifications:
+-   The front two mounting holes on the platform were re-drilled, moving each approximately 1mm forward and 1mm towards the center.
+-   This adjustment allowed for better alignment of the tray atop the robot.
+
+### Assembly & Bolt Usage:
+-   The platform was mounted using M3 bolts with 10mm spacers.
+-   Most mounting points utilized the new 30mm M3 bolts.
+-   **Exception:** The rear right screw encountered significant resistance when a 30mm bolt was hand-tightened to lower depths. It's suspected this may be due to proximity to or intersection with the motor hub or internal wiring.
+    -   **Precaution:** To avoid damage, a 25mm M3 bolt with a 10mm nut spacer was used in this specific location. The other locations used 30mm M3 bolts with 10mm spacers.
+
+### Tray Testing:
+1.  **Flat Tray:**
+    -   Once mounted, the platform itself was very solid.
+    -   A flat tray placed on the platform demonstrated that while stable, items like glasses could slide off during movement. Flat-bottomed items generally stayed in place.
+2.  **Round Tray with Rim:**
+    -   A round tray with a raised rim was subsequently attached to the flat platform surface using double-sided tape.
+    -   This setup proved much more effective for serving, as the rim successfully contained items, including sliding glasses.
+
+### Conclusion:
+-   The modifications and use of appropriate length bolts (with caution for the rear right position) resulted in a successful and solid platform attachment.
+-   The round, rimmed tray is viable for basic serving tasks.
+
+### Future Improvement Ideas:
+-   Consider designing a system with motors for active tray stabilization (counteracting robot movement/shake).
+-   Explore adding motorized lifting capabilities to the tray for enhanced serving ergonomics.
